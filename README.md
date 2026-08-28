@@ -1,1 +1,1 @@
-# -ALS-BCI-bibliometric-analysis
+# ALS-BCI-bibliometric-analysis
